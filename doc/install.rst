@@ -1,6 +1,8 @@
 Installation
 ************
 
+Note: Conda gets updated on fixed timelines, and may not include modifications to stglib that have occurred since the latest Conda release.  This means that if you want the latest version of this repository (a good idea!), it's worth installing with the instructions in "if you want to contribute to stglib development".
+
 The easy (CHS) way
 ==================
 
